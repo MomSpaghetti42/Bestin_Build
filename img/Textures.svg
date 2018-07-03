@@ -1,0 +1,130 @@
+<svg width="34" height="34" viewBox="0 0 34 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>brickwall</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(0 -1088)">
+<g id="brickwall">
+<g id="Group">
+<g id="Group">
+<g id="Vector">
+<use xlink:href="#path0_fill" transform="translate(21.5953 1102.4)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+<g id="Group">
+<g id="Group">
+<g id="Vector">
+<use xlink:href="#path1_fill" transform="translate(28.7938 1109.6)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+<g id="Group">
+<g id="Group">
+<g id="Vector">
+<use xlink:href="#path2_fill" transform="translate(28.7938 1095.2)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+<g id="Group">
+<g id="Group">
+<g id="Vector">
+<use xlink:href="#path3_fill" transform="translate(7.19844 1116.79)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+<g id="Group">
+<g id="Group">
+<g id="Vector">
+<use xlink:href="#path4_fill" transform="translate(21.5953 1116.79)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+<g id="Group">
+<g id="Group">
+<g id="Vector">
+<use xlink:href="#path5_fill" transform="translate(0 1116.79)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+<g id="Group">
+<g id="Group">
+<g id="Vector">
+<use xlink:href="#path6_fill" transform="translate(14.3969 1109.6)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+<g id="Group">
+<g id="Group">
+<g id="Vector">
+<use xlink:href="#path7_fill" transform="translate(14.3969 1095.2)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+<g id="Group">
+<g id="Group">
+<g id="Vector">
+<use xlink:href="#path8_fill" transform="translate(0 1095.2)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+<g id="Group">
+<g id="Group">
+<g id="Vector">
+<use xlink:href="#path9_fill" transform="translate(7.19844 1102.4)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+<g id="Group">
+<g id="Group">
+<g id="Vector">
+<use xlink:href="#path10_fill" transform="translate(21.5953 1088)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+<g id="Group">
+<g id="Group">
+<g id="Vector">
+<use xlink:href="#path11_fill" transform="translate(0 1109.6)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+<g id="Group">
+<g id="Group">
+<g id="Vector">
+<use xlink:href="#path12_fill" transform="translate(0 1088)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+<g id="Group">
+<g id="Group">
+<g id="Vector">
+<use xlink:href="#path13_fill" transform="translate(7.19844 1088)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+<g id="Group">
+<g id="Group">
+<g id="Vector">
+<use xlink:href="#path14_fill" transform="translate(0 1102.4)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 11.4047 0L 1 0C 0.447716 0 0 0.447715 0 1L 0 4.20625C 0 4.75854 0.447715 5.20625 1 5.20625L 11.4047 5.20625C 11.957 5.20625 12.4047 4.75854 12.4047 4.20625L 12.4047 1C 12.4047 0.447715 11.957 0 11.4047 0Z"/>
+<path id="path1_fill" d="M 4.20625 0L 1 0C 0.447716 0 0 0.447716 0 1L 0 4.20625C 0 4.75854 0.447715 5.20625 1 5.20625L 4.20625 5.20625C 4.75853 5.20625 5.20625 4.75854 5.20625 4.20625L 5.20625 1C 5.20625 0.447716 4.75854 0 4.20625 0Z"/>
+<path id="path2_fill" d="M 4.20625 0L 1 0C 0.447716 0 0 0.447715 0 1L 0 4.20625C 0 4.75853 0.447715 5.20625 1 5.20625L 4.20625 5.20625C 4.75853 5.20625 5.20625 4.75854 5.20625 4.20625L 5.20625 1C 5.20625 0.447715 4.75854 0 4.20625 0Z"/>
+<path id="path3_fill" d="M 11.4047 0L 1 0C 0.447715 0 0 0.447715 0 1L 0 4.20625C 0 4.75853 0.447715 5.20625 0.999999 5.20625L 11.4047 5.20625C 11.957 5.20625 12.4047 4.75854 12.4047 4.20625L 12.4047 1C 12.4047 0.447716 11.957 0 11.4047 0Z"/>
+<path id="path4_fill" d="M 11.4047 0L 1 0C 0.447716 0 0 0.447715 0 1L 0 4.20625C 0 4.75853 0.447715 5.20625 1 5.20625L 11.4047 5.20625C 11.957 5.20625 12.4047 4.75854 12.4047 4.20625L 12.4047 1C 12.4047 0.447716 11.957 0 11.4047 0Z"/>
+<path id="path5_fill" d="M 4.20625 0L 1 0C 0.447715 0 0 0.447715 0 1L 0 4.20625C 0 4.75853 0.447715 5.20625 1 5.20625L 4.20625 5.20625C 4.75853 5.20625 5.20625 4.75854 5.20625 4.20625L 5.20625 1C 5.20625 0.447716 4.75854 0 4.20625 0Z"/>
+<path id="path6_fill" d="M 11.4047 0L 1 0C 0.447715 0 0 0.447716 0 1L 0 4.20625C 0 4.75854 0.447715 5.20625 0.999999 5.20625L 11.4047 5.20625C 11.957 5.20625 12.4047 4.75854 12.4047 4.20625L 12.4047 1C 12.4047 0.447716 11.957 0 11.4047 0Z"/>
+<path id="path7_fill" d="M 11.4047 0L 1 0C 0.447715 0 0 0.447715 0 1L 0 4.20625C 0 4.75853 0.447715 5.20625 0.999999 5.20625L 11.4047 5.20625C 11.957 5.20625 12.4047 4.75854 12.4047 4.20625L 12.4047 1C 12.4047 0.447715 11.957 0 11.4047 0Z"/>
+<path id="path8_fill" d="M 11.4047 0L 1 0C 0.447715 0 0 0.447715 0 1L 0 4.20625C 0 4.75853 0.447715 5.20625 0.999999 5.20625L 11.4047 5.20625C 11.957 5.20625 12.4047 4.75854 12.4047 4.20625L 12.4047 1C 12.4047 0.447715 11.957 0 11.4047 0Z"/>
+<path id="path9_fill" d="M 11.4047 0L 1 0C 0.447715 0 0 0.447715 0 1L 0 4.20625C 0 4.75854 0.447715 5.20625 0.999999 5.20625L 11.4047 5.20625C 11.957 5.20625 12.4047 4.75854 12.4047 4.20625L 12.4047 1C 12.4047 0.447715 11.957 0 11.4047 0Z"/>
+<path id="path10_fill" d="M 11.4047 0L 1 0C 0.447716 0 0 0.447715 0 1L 0 4.20625C 0 4.75853 0.447715 5.20625 1 5.20625L 11.4047 5.20625C 11.957 5.20625 12.4047 4.75854 12.4047 4.20625L 12.4047 1C 12.4047 0.447715 11.957 0 11.4047 0Z"/>
+<path id="path11_fill" d="M 11.4047 0L 1 0C 0.447715 0 0 0.447716 0 1L 0 4.20625C 0 4.75854 0.447715 5.20625 0.999999 5.20625L 11.4047 5.20625C 11.957 5.20625 12.4047 4.75854 12.4047 4.20625L 12.4047 1C 12.4047 0.447716 11.957 0 11.4047 0Z"/>
+<path id="path12_fill" d="M 4.20625 0L 1 0C 0.447715 0 0 0.447715 0 1L 0 4.20625C 0 4.75853 0.447715 5.20625 1 5.20625L 4.20625 5.20625C 4.75853 5.20625 5.20625 4.75854 5.20625 4.20625L 5.20625 1C 5.20625 0.447715 4.75854 0 4.20625 0Z"/>
+<path id="path13_fill" d="M 11.4047 0L 1 0C 0.447715 0 0 0.447715 0 1L 0 4.20625C 0 4.75853 0.447715 5.20625 0.999999 5.20625L 11.4047 5.20625C 11.957 5.20625 12.4047 4.75854 12.4047 4.20625L 12.4047 1C 12.4047 0.447715 11.957 0 11.4047 0Z"/>
+<path id="path14_fill" d="M 4.20625 0L 1 0C 0.447715 0 0 0.447715 0 1L 0 4.20625C 0 4.75854 0.447715 5.20625 1 5.20625L 4.20625 5.20625C 4.75853 5.20625 5.20625 4.75854 5.20625 4.20625L 5.20625 1C 5.20625 0.447715 4.75854 0 4.20625 0Z"/>
+</defs>
+</svg>

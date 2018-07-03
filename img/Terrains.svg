@@ -1,0 +1,18 @@
+<svg width="38" height="38" viewBox="0 0 38 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>mountain-range-on-black-background</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(554 -1090)">
+<g id="mountain-range-on-black-background">
+<g id="Group">
+<g id="image">
+<g id="Vector">
+<use xlink:href="#path0_fill" transform="translate(-554 1090)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 38 33.7778L 38 4.22222C 38 1.9 36.1 0 33.7778 0L 4.22222 0C 1.9 0 0 1.9 0 4.22222L 0 33.7778C 0 36.1 1.9 38 4.22222 38L 33.7778 38C 36.1 38 38 36.1 38 33.7778ZM 11.6111 22.1667L 16.8889 28.5L 24.2778 19L 33.7778 31.6667L 4.22222 31.6667L 11.6111 22.1667Z"/>
+</defs>
+</svg>

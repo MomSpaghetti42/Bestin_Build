@@ -1,0 +1,16 @@
+<svg width="131" height="131" viewBox="0 0 131 131" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Subtract</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(551 -1511)">
+<g id="Subtract">
+<use xlink:href="#path0_fill" transform="translate(-551 1511)" fill="url(#paint0_linear)"/>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-120.836 120.836 -120.836 -120.836 181.254 70.5819)">
+<stop offset="0" stop-color="#A54BF8"/>
+<stop offset="1" stop-color="#D68CF3"/>
+</linearGradient>
+<path id="path0_fill" fill-rule="evenodd" d="M 0 10C 0 4.47717 4.47717 0 10 0L 121 0C 126.523 0 131 4.47717 131 10L 131 121C 131 126.523 126.523 131 121 131L 54.3929 131L 60.0749 125.338L 41.3474 108.833L 41.3474 131L 10 131C 4.47717 131 0 126.523 0 121L 0 66.1461L 65.4956 119.673L 94.4889 94.338L 35.4371 39.9937L 0 39.9937L 0 10ZM 96.0193 86.9457L 96.0193 55.8132L 96.0193 36L 70.458 61.4746L 96.0193 86.9457ZM 102.215 36L 119 52.7271L 102.215 52.7271L 102.215 36Z"/>
+</defs>
+</svg>
